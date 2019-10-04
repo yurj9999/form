@@ -8,4 +8,4 @@
 
 Использованный стэк: JS, CSS, HTML, GIT
 
-[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+[1]: https://yurj9999.github.io/form/
