@@ -1,4 +1,4 @@
-#Ссылка на проект - [практическая работа №10][1]
+Ссылка на проект - [практическая работа №10][1]
 -------------
 версия проекта - 0.0.1
 
@@ -8,4 +8,4 @@
 
 Использованный стэк: JS, CSS, HTML, GIT
 
-[1]: https://yurj9999.github.io/form/
+[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
